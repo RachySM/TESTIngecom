@@ -7,3 +7,9 @@ Los datos recogidos incluyen contraseñas de empleados como:
 
 rnogales@ingecom.net
 y su contraseña: p4ssw0rd123
+
+jpereira@ingecom.net
+y su contraseña: 1AMN0TSM4RT
+
+mscott@ingecom.net
+and his present password: Loads0FWork123
